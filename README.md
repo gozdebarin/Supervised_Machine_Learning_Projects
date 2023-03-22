@@ -46,3 +46,4 @@ ____________
      False Negatives : The cases in which we predicted NO and the actual output was YES.
 
 
+![train-test-split](https://user-images.githubusercontent.com/90986708/226891873-543c7028-a1eb-44b5-aca2-f1b11d25bc89.jpeg)
